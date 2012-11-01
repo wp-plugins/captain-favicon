@@ -34,7 +34,7 @@ How to install this plugin?
 = What Size Should My Favicon Be? =
 Ideally it should be **16px x 16px**. However, if you'd like to support retina-support, upload a **32px x 32px** favicon.
 
-= How Can I Make a Favicon?
+= How Can I Make a Favicon? =
 Using an Image Editor like Photoshop/GIMP or an online service like [favicon.cc](http://favicon.cc/).
 
 == Screenshots ==
