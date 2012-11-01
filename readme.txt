@@ -16,6 +16,7 @@ Just install the plugin and you'll then be able to upload a favicon for your sit
 Upload a 16px x 16px image for normal support or a 32px x 32px for retina-support.
 
 **Support:** [Captain Theme](http://captaintheme.com/)
+
 **Documentation:** [Captain Favicon Documentation](http://captaintheme.com/docs/captain-favicon-documentation/)
 
 == Installation ==
@@ -31,7 +32,7 @@ How to install this plugin?
 == Frequently Asked Questions ==
 
 = What Size Should My Favicon Be? =
-Ideally it should be **16px x 16px**. However, if you'd like to support retina-support, upload a **32px x 32px favicon.
+Ideally it should be **16px x 16px**. However, if you'd like to support retina-support, upload a **32px x 32px** favicon.
 
 = How Can I Make a Favicon?
 Using an Image Editor like Photoshop/GIMP or an online service like [favicon.cc](http://favicon.cc/).
