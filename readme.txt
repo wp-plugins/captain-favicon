@@ -45,6 +45,10 @@ Using an Image Editor like Photoshop/GIMP or an online service like [favicon.cc]
 
 == Changelog ==
 
+= 1.1 =
+
+* Code Formatting Clean-Up
+
 = 1.0.0 =
 
 * Initial Release.
