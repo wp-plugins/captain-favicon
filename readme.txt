@@ -1,6 +1,6 @@
 === Captain Favicon ===
-Contributors: captaintheme
-Donate link: http://bryceadams.com/
+Contributors: captaintheme, bryceadams123
+Donate link: http://captaintheme.com
 Tags: captain theme, favicon, icon, favicon upload, captain favicon
 Requires at least: 3.3
 Tested up to: 3.5
@@ -13,9 +13,9 @@ The easiest way to add a Favicon to your site.
 
 Just install the plugin and you'll then be able to upload a favicon for your site!
 
-Upload a 16px x 16px image for normal support or a 32px x 32px for retina-support.
+Upload a 16px x 16px image for normal support or a 32px x 32px for retina-support. Any sized image will work though!
 
-**Support:** [Captain Theme](http://captaintheme.com/)
+[vimeo https://vimeo.com/52995559]
 
 **Documentation:** [Captain Favicon Documentation](http://captaintheme.com/docs/captain-favicon-documentation/)
 
@@ -32,7 +32,7 @@ How to install this plugin?
 == Frequently Asked Questions ==
 
 = What Size Should My Favicon Be? =
-Ideally it should be **16px x 16px**. However, if you'd like to support retina-support, upload a **32px x 32px** favicon.
+Ideally it should be **16px x 16px**. If you'd like to support retina-support, upload a **32px x 32px** favicon. Keep in mind that all image sizes will work, it's just advised to make your image square.
 
 = How Can I Make a Favicon? =
 Using an Image Editor like Photoshop/GIMP or an online service like [favicon.cc](http://favicon.cc/).
