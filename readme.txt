@@ -3,11 +3,11 @@ Contributors: captaintheme, bryceadams123
 Donate link: http://captaintheme.com
 Tags: captain theme, favicon, icon, favicon upload, captain favicon
 Requires at least: 3.3
-Tested up to: 3.5
+Tested up to: 3.9.1
 Stable tag: trunk
 License: GPLv2 or later
 
-The easiest way to add a Favicon to your site.
+The easiest way to add a Favicon to your site (with retina support!)
 
 == Description ==
 
@@ -18,6 +18,8 @@ Upload a 16px x 16px image for normal support or a 32px x 32px for retina-suppor
 [vimeo https://vimeo.com/52995559]
 
 **Documentation:** [Captain Favicon Documentation](http://captaintheme.com/docs/captain-favicon-documentation/)
+
+**For More Awesome Plugins, please check out [CAPTAIN THEME](http://captaintheme.com/)**
 
 == Installation ==
 
@@ -44,6 +46,11 @@ Using an Image Editor like Photoshop/GIMP or an online service like [favicon.cc]
 3. The options screen after a favicon has been uploaded. You can view it there and also delete it if you don't want it anymore.
 
 == Changelog ==
+
+= 1.2 =
+
+* Slight Improvements All Around
+* Added Korean Translation
 
 = 1.1 =
 

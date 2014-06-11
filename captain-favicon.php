@@ -5,9 +5,9 @@ Plugin URI: http://captaintheme.com/plugins/favicon/
 Description: The easiest way to add a Favicon to your site.
 Author: Captain Theme
 Author URI: http://captaintheme.com
-Version: 1.1
+Version: 1.2
 Text Domain: ctfavicon
-License: GNU GPL V2
+License: GNU GPL V3
 */
 
 
@@ -61,7 +61,7 @@ function ctfavicon_settings_link( $links, $file ) {
 	if ( !$this_plugin ) $this_plugin = plugin_basename(__FILE__);
  
 	if ( $file == $this_plugin ) {
-		$settings_link = '<a href="options-general.php?page=ctfavicon-settings">' . __( "Settings", "eddslider" ) . '</a>';
+		$settings_link = '<a href="options-general.php?page=ctfavicon-settings">' . __( "Settings", "ctfavicon" ) . '</a>';
 		array_unshift( $links, $settings_link );
 	}
 	
