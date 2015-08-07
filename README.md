@@ -1,14 +1,14 @@
 # Captain Favicon
 
-*	**Contributors:** captaintheme
+*	**Contributors:** bryceadams
 *	**Donate link:** [http://bryceadams.com/](http://bryceadams.com/)
-*	**Tags:** captain theme, favicon, icon, favicon upload, captain favicon
+*	**Tags:** favicon, icon, favicon upload, captain favicon
 *	**Requires at least:** 3.3
 *	**Tested up to:** 3.5
 *	**Stable tag:** trunk
 *	**License:** GPLv2 or later
 
-For Documentation, please visit [Captain Favicon Documentation](http://captaintheme.com/docs/captain-favicon-documentation/).
+For Documentation, please visit [Captain Favicon Documentation](https://github.com/bryceadams/Captain-Favicon/wiki).
 
 For Support, please submit an **issue** above.
 
@@ -18,9 +18,7 @@ Just install the plugin and you'll then be able to upload a favicon for your Wor
 
 Upload a 16px x 16px image for normal support or a 32px x 32px for retina-support.
 
-**Support:** [Captain Theme](http://captaintheme.com/)
-
-**Documentation:** [Captain Favicon Documentation](http://captaintheme.com/docs/captain-favicon-documentation/)
+**Documentation:** [Captain Favicon Documentation](https://github.com/bryceadams/Captain-Favicon/wiki)
 
 ## Installation
 

@@ -144,8 +144,7 @@ function ctfavicon_setting_favicon_preview() {
 
 function ctfavicon_settings_header_text() {
 	?>
-		<p><?php _e( 'Upload Your Favicon! You can use a service like <a href="http://favicon.cc/">favicon.cc</a> to create it. Need Help? View <a href="http://captaintheme.com/docs/captain-favicon-documentation/">Captain Favicon Documentation</a>.', 'captain-favicon' ); ?></p>
-		<p><a href="http://captaintheme.com">More Plugins by Captain Theme</a></p>
+		<p><?php _e( 'Upload Your Favicon! You can use a service like <a href="http://favicon.cc/">favicon.cc</a> to create it. Need Help? View <a href="https://github.com/bryceadams/Captain-Favicon/wiki">Captain Favicon Documentation</a>.', 'captain-favicon' ); ?></p>
 	<?php
 }
 

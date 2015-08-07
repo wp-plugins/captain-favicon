@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Captain Favicon
-Plugin URI: http://captaintheme.com/plugins/favicon/
+Plugin URI: http://github.com/bryceadams/captain-favicon
 Description: The easiest way to add a Favicon to your site.
-Author: Captain Theme
-Author URI: http://captaintheme.com
-Version: 1.2.1
+Author: Bryce Adams
+Author URI: http://bryceadams.com
+Version: 1.2.2
 Text Domain: captain-favicon
 License: GNU GPL V3
 */
